@@ -1,0 +1,13 @@
+# Processed data — too large for GitHub, share separately
+data/train_expression_wide.parquet
+data/checkpoints/
+data/predictions.parquet
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
